@@ -1,0 +1,26 @@
+{
+  "name": "synchron",
+  "version": "0.0.1",
+  "description": "NodeJS System to sync two different databases every specified time",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zheref/synchron.git"
+  },
+  "keywords": [
+    "sync",
+    "databases",
+    "cronjob",
+    "time",
+    "chrono"
+  ],
+  "author": "Sergio Daniel Lozano Garcia (@zheref)",
+  "license": "Public License",
+  "bugs": {
+    "url": "https://github.com/zheref/synchron/issues"
+  },
+  "homepage": "https://github.com/zheref/synchron"
+}
